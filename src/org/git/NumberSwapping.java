@@ -20,6 +20,8 @@ public class NumberSwapping {
 			System.out.println("after swapping");
 			System.out.println("a is"+a);
 		    System.out.println("b is"+b);
+		    
+		    System.out.println("ashok ");
 
 }
 }
